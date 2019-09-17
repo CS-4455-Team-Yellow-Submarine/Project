@@ -1,1 +1,1 @@
-# Project
+This repository is for all Yellow Submarine members to create and develop project in CS 4455
